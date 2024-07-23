@@ -4,30 +4,30 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/EmperorsRelics
   rotate: false
-  xy: 112, 4
+  xy: 75, 70
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Holodeck
+BuildingIcons/Guardians
   rotate: false
-  xy: 220, 4
+  xy: 432, 71
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Aliens
+NationIcons/The Iron Legion
   rotate: false
-  xy: 4, 4
+  xy: 195, 75
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Guardian
   rotate: false
-  xy: 328, 4
+  xy: 308, 74
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
