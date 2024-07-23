@@ -15,11 +15,10 @@
 		"uniqueTo": "The Iron Legion",
 		"cost": 70,
 		"hurryCostModifier": 100,
+		"City Strength" [+15],
+		"City Health" [+60], 
 		"happiness": 4,
-		"uniques": [ "Destroyed when city is captured",
-			City Strength [+15],
-			City Health [+30], 
-		],
+		"uniques": ["Destroyed when city is captured"],
 		"requiredTech": "Engineering"
 	}
 ]
