@@ -17,8 +17,8 @@
 		"hurryCostModifier": 100,
 		"happiness": 4,
 		"uniques": [ "Destroyed when city is captured",
-			[+15] City Strength,
-			[+30] City Health, 
+			City Strength [+15],
+			City Health [+30], 
 		]
 		"requiredTech": "Engineering"
 	}
