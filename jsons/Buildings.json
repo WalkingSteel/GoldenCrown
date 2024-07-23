@@ -1,25 +1,25 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "EmpierorsRelics",
+		"uniqueTo": "The Iron Legion",
+		"cost": 500,
+		"culture": 5,
+		"science": 5,
+		"maintenance": 120,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Guardians",
+		"requiredTech": "Engineering"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"name": "Guardians",
+		"uniqueTo": "The Iron Legion",
+		"cost": 70,
+		"hurryCostModifier": 100,
+		"happiness": 4,
+		"uniques": [ "Destroyed when city is captured",
+			[+15] City Strength,
+			[+30] City Health, 
+		]
 		"requiredTech": "Engineering"
 	}
 ]
