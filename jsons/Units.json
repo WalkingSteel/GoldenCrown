@@ -1,17 +1,15 @@
 [
-	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+    {
+        "name": "Golden Kight",
+        "unitType": "Sword",
+        "replaces": "Swordsman",
+        "UniqueTo": "The Iron Legion",
+        "Movement": 3,
+        "Strength": 25,
+        "cost": 120,
+        "requiredTech": "Iron Working",
+        "obsoleteTech":"Steel",
+        "hurryCostModifier": 30,
+        "attackSound": "metalhit"
+    }
 ]
