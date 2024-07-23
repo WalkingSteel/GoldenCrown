@@ -19,7 +19,7 @@
 		"uniques": [ "Destroyed when city is captured",
 			City Strength [+15],
 			City Health [+30], 
-		]
+		],
 		"requiredTech": "Engineering"
 	}
 ]
