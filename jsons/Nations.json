@@ -1,38 +1,56 @@
 [
-	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+    {
+       "name": "The Iron Legion",
+       "leaderName":"Salvador",
+       "adjective": ["The Legion"],
+       "StartBias": ["Plains", "Costal"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+       "preferredVictoryType": "Domination",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+       "startIntroPart1": "Great Salvador, We welcome you to new land that we had recently descovered. Though we werent the only to settle here there are others nearby rather friend or foe they pose a threat to thee new order. Its your call on what you shall do but im my suggestion we sould teach the intruders whos in charge but only by your will.",
+       "startIntroPart2": "Emperor Salvador, Our past conquest have caught up with us though we may have lost some battles the council have come to a conclusion that we should make more friends not enemys though this decision was split it cannot be ignored we need allies.",
+
+       "declaringWar": "You're decision have made you an opposition prepare your men and lets settle this divison.",
+       "attacked": "You made a grave mistake unsheathing your weapon at me you will feel the wrath of a war hero",
+       "defeat": "Though you may have won this fight I still have repect for your honor. May our sword clash again or our nations seated togeher in unity...one day",
+       "introduction": "Welcome, We may not know each other but I hope my gifts give great fortune to you and you're future",
+       
+       "neutralHello": "Hello again.",
+       "neutralLetsHearIt": ["You have my attention", "I'm all ears"],
+       "neutralNo": ["I can't do that", "Absolutly not"],
+       "neutralYes": ["Of course", "I can't say no to that"],
+       "hateHello": ["Watch your words", "Careful of what you say"],
+       "hateLetsHearIt": "Fine, what do you offer",
+       "hateNo": ["Thats awful", "No"],
+       "hateYes": "If I must...",
+       
+       "afterPeace": "Our conflict has come to an end, will this last thats for time to tell",
+       "tradeRequest": "Lets make a deal",
+       
+       "outerColor": [192,192,192], 
+       "innerColor": [0,0,0],
+
+       "uniqueName": "A Great General now Emperor",
+       "uniqueText": "A previous great general has a row of skills to help him get the edge",
+       "uniques": ["[+50]% Culture cost of adopting new Policies",
+"[Great General] is earned [67]% faster",
+"[Great Scientist] is earned [10]% faster",
+"[Great Engineer] is earned [33]% slower",
+"[-66]% maintenance cost <for [Land] units>",
+"Great General provides triple combat bonus",
+"No damage penalty for wounded units",
+"[+2] Movement <for [Land] units>",
+"[+2] Range <for [Land] units>",
+"[+25]% Strength <within [3] tiles of a fort>",
+"[+5]% Strength <in [Hostile Land] tiles>",
+"[+25]% Strength <in [Friendly Land] tiles>",
+"[67]% City Strength from defensive buildings",
+"[-75]% Golden Age length",
+"[+50]% City-State Influence degradation",
+"Earn [33]% of killed [Military] unit's [Strength] as [Science]",
+"[+33]% XP gained from combat <for [Military] units>",
+"[+3 Gold, +3 Production, +3 Science, +5 Happiness] per [1] population [in all cities]",
+    ],
+    "cities": ["Iron Wall","Kenestavia","Yuron","Henstion","Dike","Methentrope","Vennus","Chario","Zlaco","Hinas","Zuumvale","Vrico","Phares","Lionnard"]
+   }
 ]
