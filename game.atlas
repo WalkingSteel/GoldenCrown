@@ -4,7 +4,7 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/EmperorsRelics
+BuildingIcons/EmpierorsRelics
   rotate: false
   xy: 75, 70
   size: 100, 100
